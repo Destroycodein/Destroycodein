@@ -1,9 +1,9 @@
 
-> # Hi 👋 My name is Koo0ki
+> # Hi 👋 My name is Destroy
 
 ---
 
-> ### Web / Bots Developer
+### Web / Bots Developer
 I have been developing bots and backend for more than 1 years.
 
 ---
