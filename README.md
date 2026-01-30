@@ -1,3 +1,12 @@
+<div id="badges">
+  <a href="https://discord.com/users/1400906072847286384">
+    <img src="https://shields.io/badge/discord-blue?logo=discord" alt="Discord Badge"/>
+  </a>
+  <a href="https://t.me/destroywork">
+    <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Discord Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=koo0ki&style=flat-square&color=blue" alt=""/>
+</div>
 
 > # Hi 👋 My name is Destroy
 ---
@@ -11,6 +20,7 @@ I have been developing bots and backend for more than 1 years.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1400906072847286384) 
+
 
 ---
 
