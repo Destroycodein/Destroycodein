@@ -1,6 +1,5 @@
 
 > # Hi 👋 My name is Destroy
-
 ---
 
 ### Web / Bots Developer
@@ -23,9 +22,3 @@ I have been developing bots and backend for more than 1 years.
 ---
 > ## Statistics
 [![](https://visitcount.itsvg.in/api?id=Destroycodein&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Destroycodein&theme=tokyonight&show_icons=true)](https://github.com/Destroycodein)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Destroycodein&theme=tokyonight) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
